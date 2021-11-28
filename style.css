@@ -659,9 +659,11 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 45px;
 }
-
+.size-18{
+    font-size: 18px;
+}
 .hero-bloc-text-sub {
     font-size: 36px;
 }
@@ -677,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
