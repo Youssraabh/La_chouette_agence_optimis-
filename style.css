@@ -1047,4 +1047,12 @@ h4 {
     .form-control{
         width:90%;
     }
+    .cta-hero{
+        width: 90%;
+    }
+
+    p{
+        font-size: 18px;
+    }
+
 }
