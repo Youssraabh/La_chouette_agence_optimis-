@@ -653,7 +653,11 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
-
+.centreText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .container {
     max-width: 1000px;
 }
