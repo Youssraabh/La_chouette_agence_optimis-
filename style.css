@@ -682,7 +682,8 @@ p {
     font-size: 14px;
 }
 .Contact{
-    padding-left: 50px;
+    padding-left: 98px;
+    display:flex;
 }
 .tight-width-whitespace {
     max-width: 600px;
