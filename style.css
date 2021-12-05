@@ -653,11 +653,7 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
-.centreText{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .container {
     max-width: 1000px;
 }
@@ -685,7 +681,9 @@ a {
 p {
     font-size: 14px;
 }
-
+.Contact{
+    padding-left: 50px;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
