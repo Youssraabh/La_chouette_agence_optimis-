@@ -681,7 +681,7 @@ a {
 p {
     font-size: 14px;
 }
-.Contact{
+p .Contact{
     padding-left: 98px;
     display:flex;
 }
