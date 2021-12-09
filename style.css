@@ -915,6 +915,9 @@ h4 {
         padding-right: 10px!important;
         font-size: 18px;
     }
+    .Contact{
+        padding-left:8px;
+    }
     .b-parallax {
         background-attachment: scroll;
     }
